@@ -1,0 +1,5 @@
+m365-security-auditor-cli/
+│
+├── README.md
+├── requirements.txt
+└── auditor.py
